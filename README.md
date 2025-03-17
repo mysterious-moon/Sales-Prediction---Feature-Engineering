@@ -75,5 +75,8 @@ Future enhancements may include:
 * Incorporating additional data sources such as seasonal trends and economic indicators.
 * Implementing advanced machine learning techniques such as ensemble methods or deep learning.
 *Developing a user-friendly application for real-time sales predictions.
-License
+
+
+**License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
