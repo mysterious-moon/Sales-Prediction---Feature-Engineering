@@ -1,4 +1,4 @@
-# Sales-Prediction---Feature-Engineering
+# Sales-Prediction-Feature-Engineering
 
 ## BigMart Sales Prediction
 
